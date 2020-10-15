@@ -1,0 +1,20 @@
+{
+  "name": "ejemploapirest",
+  "version": "1.0.0",
+  "description": "Reserva de videojuegos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Api",
+    "Rest",
+    "Node",
+    "Cesde"
+  ],
+  "author": "Juan David ORtiz Correa",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.0.3"
+  }
+}
